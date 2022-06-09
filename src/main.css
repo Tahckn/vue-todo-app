@@ -37,6 +37,7 @@ body {
 
 .dark-mode{
 	text-align: center;
+	cursor : pointer;
 }
 
 section {
